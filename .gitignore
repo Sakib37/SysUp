@@ -80,3 +80,4 @@ tags
 
 # Ignore downloaded files 
 temp_download/*
+! temp_download/README.md
