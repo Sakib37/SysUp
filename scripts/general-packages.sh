@@ -7,10 +7,10 @@ sudo apt install -y vim \
 		curl \
 		git  \
 		python3 \
-	    gcc \
+	        gcc \
 		make \
 		perl \
-		debconf-utils \ 
+		debconf-utils  \
 		libcanberra-gtk-module \
 		software-properties-common
 			
